@@ -1250,3 +1250,210 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-21.22.35:394][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
 [2021.02.28-21.22.35:434][354]LogPlayLevel: Display: Destroying online subsystem :Context_8
 [2021.02.28-21.22.40:818][  0]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_36)
+[2021.02.28-21.24.20:781][582]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.28-21.24.29:087][558]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DLift.2DLift
+[2021.02.28-21.24.32:210][861]LogSlate: Window '2DLift' being destroyed
+[2021.02.28-21.24.32:217][861]LogSlate: Window '2DLift' being destroyed
+[2021.02.28-21.24.32:252][861]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-21.24.32:252][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.24.34:597][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.02.28-21.24.36:367][ 92]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.28-21.24.36:454][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.02.28-21.24.39:525][445]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.02.28-21.24.47:126][445]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.02.28-21.24.47:154][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.02.28-21.24.47:182][445]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DLift.2DLift
+[2021.02.28-21.25.59:964][989]LogSlate: Took 0.000805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.02.28-21.28.54:285][594]BlueprintLog: New page: Compile 2DLift
+[2021.02.28-21.28.54:339][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.02.28-21.29.11:351][461]BlueprintLog: New page: Compile 2DLift
+[2021.02.28-21.29.11:402][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.02.28-21.31.07:314][555]BlueprintLog: New page: Compile 2DLift
+[2021.02.28-21.31.07:362][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.02.28-21.31.10:368][898]LogSavePackage: Moving '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/2DLiftA2BFEF3341F620054E895B824D87211D.tmp' to '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Content/2DSideScrollerBP/Blueprints/2DLift.uasset'
+[2021.02.28-21.31.10:382][898]AssetCheck: New page: Asset Save: 2DLift
+[2021.02.28-21.31.10:382][898]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DLift.2DLift
+[2021.02.28-21.31.17:106][100]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.02.28-21.31.22:928][791]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.02.28-21.31.23:513][860]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.02.28-21.31.36:989][451]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift)
+[2021.02.28-21.32.15:751][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.02.28-21.32.15:766][874]LogSavePackage: Moving '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/2DSideScrollerExampleMap_Auto2F042ACC647934925174B1EA8916702B6.tmp' to '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2021.02.28-21.32.15:768][874]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.035
+[2021.02.28-21.32.15:768][874]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.035
+[2021.02.28-21.34.26:675][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.02.28-21.34.31:035][854]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.28-21.34.33:998][195]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.02.28-21.34.35:181][333]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.35:181][333]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.28-21.34.35:555][343]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.35:555][343]LogEditorTransaction: Undo Edit Test End Location
+[2021.02.28-21.34.35:721][348]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.35:721][348]LogEditorTransaction: Undo Move Actors
+[2021.02.28-21.34.35:981][378]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.35:981][378]LogEditorTransaction: Undo Edit Test End Location
+[2021.02.28-21.34.36:249][408]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.36:249][408]LogEditorTransaction: Undo Move Actors
+[2021.02.28-21.34.36:591][447]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.36:591][447]LogEditorTransaction: Undo Move Actors
+[2021.02.28-21.34.36:935][488]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.36:936][488]LogEditorTransaction: Undo Move Actors
+[2021.02.28-21.34.37:195][519]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.37:195][519]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.28-21.34.37:422][539]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.37:422][539]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.28-21.34.38:574][675]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.38:574][675]LogEditorTransaction: Undo Create Pin Link
+[2021.02.28-21.34.39:088][735]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.39:088][735]LogEditorTransaction: Undo Create Pin Link
+[2021.02.28-21.34.39:778][815]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.39:778][815]LogEditorTransaction: Undo Create Pin Link
+[2021.02.28-21.34.40:213][864]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.40:213][864]LogEditorTransaction: Undo Move Node
+[2021.02.28-21.34.40:658][913]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.40:658][913]LogEditorTransaction: Undo Move Node
+[2021.02.28-21.34.41:082][961]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.41:082][961]LogEditorTransaction: Undo Move Node
+[2021.02.28-21.34.41:488][  7]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.41:488][  7]LogEditorTransaction: Undo Move Node
+[2021.02.28-21.34.41:920][ 56]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.41:920][ 56]LogEditorTransaction: Undo Add Node
+[2021.02.28-21.34.42:573][130]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.42:573][130]LogEditorTransaction: Undo Add Node
+[2021.02.28-21.34.43:082][188]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.43:082][188]LogEditorTransaction: Undo Add Node
+[2021.02.28-21.34.44:248][325]Cmd: TRANSACTION UNDO
+[2021.02.28-21.34.44:248][325]LogEditorTransaction: Undo Move Nodes
+[2021.02.28-21.34.55:136][570]LogSlate: Window '2DLift' being destroyed
+[2021.02.28-21.34.55:141][570]LogSlate: Window '2DLift' being destroyed
+[2021.02.28-21.34.55:144][570]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-21.34.55:144][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.35.02:106][396]Cmd: DELETE
+[2021.02.28-21.35.02:106][396]Cmd: ACTOR DELETE
+[2021.02.28-21.35.02:108][396]LogEditorActor: Deleted Actor: 2DLift_C
+[2021.02.28-21.35.02:126][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.02.28-21.35.02:130][396]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.02.28-21.35.09:782][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.02.28-21.35.11:013][240]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.28-21.35.11:473][240]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/2DLift.2DLift
+[2021.02.28-21.35.11:970][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.02.28-21.35.11:986][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.02.28-21.35.12:001][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.02.28-21.35.28:929][255]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-21.35.28:933][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-21.35.28:933][255]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 28, 2021, 7:35:28 AM)
+[2021.02.28-21.35.28:980][255]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.35.28:982][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002417s)
+[2021.02.28-21.35.28:983][255]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.02.28-21.35.28:983][255]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001730B2C0800), frame # 142255
+[2021.02.28-21.35.28:983][255]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000173144716C0), frame # 142255
+[2021.02.28-21.35.28:983][255]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2021.02.28-21.35.28:983][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003431s)
+[2021.02.28-21.35.28:999][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.02.28-21.35.29:004][255]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-21.35.29:004][255]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-21.35.29:004][255]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-21.35.29:004][255]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-21.35.29:004][255]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-21.35.29:004][255]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-21.35.29:004][255]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-21.35.29:004][255]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-21.35.29:005][255]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-21.35.29:005][255]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-21.35.29:010][255]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-21.35.29:010][255]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-21.35.29:030][255]LogAudioMixer: Display: Using Audio Device Speakers (SADES Knight Pro)
+[2021.02.28-21.35.29:030][255]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-21.35.29:030][255]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-21.35.29:030][255]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-21.35.29:030][255]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-21.35.29:041][255]LogInit: FAudioDevice initialized.
+[2021.02.28-21.35.29:053][255]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.02.28-21.35.29:054][255]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.02.28-14.35.29
+[2021.02.28-21.35.29:054][255]LogWorld: Bringing up level for play took: 0.000733
+[2021.02.28-21.35.29:055][255]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.02.28-21.35.29:057][255]PIE: Server logged in
+[2021.02.28-21.35.29:058][255]PIE: Play in editor total start time 0.126 seconds.
+[2021.02.28-21.35.40:164][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.35.40:164][578]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.35.40:164][578]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-21.35.40:165][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.35.40:174][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-21.35.40:178][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.35.40:218][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.35.40:218][578]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000173144716C0), frame # 143578
+[2021.02.28-21.35.40:218][578]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001730B2C0800), frame # 143578
+[2021.02.28-21.35.40:220][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.02.28-21.35.40:237][579]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.02.28-21.35.42:538][853]LogEditorViewport: Clicking on Actor (LMB): Lift_C (Lift)
+[2021.02.28-21.35.47:834][478]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_35)
+[2021.02.28-21.35.51:675][929]LogEditorViewport: Clicking on Actor (LMB): Lift_C (Lift)
+[2021.02.28-21.35.57:496][600]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-21.35.57:501][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-21.35.57:502][600]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 28, 2021, 7:35:57 AM)
+[2021.02.28-21.35.57:502][600]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.35.57:504][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002578s)
+[2021.02.28-21.35.57:505][600]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.02.28-21.35.57:505][600]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017304CE6C00), frame # 145600
+[2021.02.28-21.35.57:505][600]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001737202E840), frame # 145600
+[2021.02.28-21.35.57:505][600]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2021.02.28-21.35.57:505][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003602s)
+[2021.02.28-21.35.57:520][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.02.28-21.35.57:525][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-21.35.57:525][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-21.35.57:525][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-21.35.57:525][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-21.35.57:525][600]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-21.35.57:525][600]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-21.35.57:525][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-21.35.57:525][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-21.35.57:526][600]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-21.35.57:526][600]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-21.35.57:531][600]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-21.35.57:531][600]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-21.35.57:551][600]LogAudioMixer: Display: Using Audio Device Speakers (SADES Knight Pro)
+[2021.02.28-21.35.57:551][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-21.35.57:551][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-21.35.57:551][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-21.35.57:552][600]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-21.35.57:564][600]LogInit: FAudioDevice initialized.
+[2021.02.28-21.35.57:573][600]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.02.28-21.35.57:574][600]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.02.28-14.35.57
+[2021.02.28-21.35.57:575][600]LogWorld: Bringing up level for play took: 0.000973
+[2021.02.28-21.35.57:575][600]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.02.28-21.35.57:577][600]PIE: Server logged in
+[2021.02.28-21.35.57:578][600]PIE: Play in editor total start time 0.078 seconds.
+[2021.02.28-21.36.11:622][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.36.11:622][278]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.36.11:622][278]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-21.36.11:622][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.36.11:629][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-21.36.11:632][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.36.11:660][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.36.11:660][278]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001737202E840), frame # 147278
+[2021.02.28-21.36.11:660][278]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017304CE6C00), frame # 147278
+[2021.02.28-21.36.11:662][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.02.28-21.36.11:703][280]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.02.28-21.36.14:158][574]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_38)
+[2021.02.28-21.36.17:441][943]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.28-21.36.19:364][165]LogEditorViewport: Clicking on Actor (LMB): Lift_C (Lift)
+[2021.02.28-21.36.23:743][683]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.02.28-21.36.26:504][  9]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.02.28-21.36.34:378][940]LogEditorViewport: Clicking on Actor (LMB): Lift_C (Lift)
+[2021.02.28-21.42.41:187][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.02.28-21.42.41:211][895]LogSavePackage: Moving '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/2DSideScrollerExampleMap_Auto3C32AAA6A4CCB056B6F9FF7AE71A3A503.tmp' to '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap'
+[2021.02.28-21.42.41:213][895]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.043
+[2021.02.28-21.42.41:213][895]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.043
+[2021.02.28-21.48.59:468][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.02.28-21.48.59:492][542]LogSavePackage: Moving '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/2DSideScrollerExampleMapE87CAF1D4FEB6DCF99F80C9F684D19C5.tmp' to '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.02.28-21.48.59:501][542]LogSavePackage: Moving '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/2DSideScrollerExampleMap_BuiltDa12C63E254F2C21196E53C9A19237027C.tmp' to '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.02.28-21.48.59:515][542]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-21.48.59:515][542]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.02.28-21.48.59:515][542]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.02.28-21.49.00:866][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.02.28-21.49.00:881][700]LogSavePackage: Moving '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/2DSideScrollerExampleMapC0C0CA344E50BABA8E01CFA55F44469D.tmp' to '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.02.28-21.49.00:889][700]LogSavePackage: Moving '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/2DSideScrollerExampleMap_BuiltDa17ACDEE24E3C5CE4E65480BB00650696.tmp' to '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.02.28-21.49.00:901][700]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-21.49.00:901][700]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.02.28-21.49.00:901][700]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
