@@ -933,3 +933,122 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-21.05.18:806][  0]LogAssetRegistry: Asset discovery search completed in 5.5340 seconds
 [2021.02.28-21.05.18:811][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2021.02.28-21.05.18:913][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.28-21.12.59:001][  7]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_12)
+[2021.02.28-21.13.07:622][ 16]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2021.02.28-21.13.13:446][710]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2021.02.28-21.13.15:856][995]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.02.28-21.13.17:953][242]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.02.28-21.13.19:769][451]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2021.02.28-21.13.23:932][945]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.02.28-21.13.25:076][ 81]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.02.28-21.13.25:642][148]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.02.28-21.13.35:359][278]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-21.13.35:365][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-21.13.35:367][278]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 28, 2021, 7:13:35 AM)
+[2021.02.28-21.13.35:368][278]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.28-21.13.35:370][278]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.28-21.13.35:370][278]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.13.35:373][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002852s)
+[2021.02.28-21.13.35:373][278]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.02.28-21.13.35:374][278]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001730E768C00), frame # 30278
+[2021.02.28-21.13.35:374][278]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001730E7865C0), frame # 30278
+[2021.02.28-21.13.35:374][278]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2021.02.28-21.13.35:374][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004117s)
+[2021.02.28-21.13.35:382][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.02.28-21.13.35:383][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-21.13.35:384][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-21.13.35:384][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-21.13.35:384][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-21.13.35:384][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-21.13.35:384][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-21.13.35:384][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-21.13.35:384][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-21.13.35:384][278]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-21.13.35:384][278]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-21.13.35:390][278]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-21.13.35:390][278]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-21.13.35:410][278]LogAudioMixer: Display: Using Audio Device Speakers (SADES Knight Pro)
+[2021.02.28-21.13.35:410][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-21.13.35:410][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-21.13.35:410][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-21.13.35:411][278]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-21.13.35:421][278]LogInit: FAudioDevice initialized.
+[2021.02.28-21.13.35:428][278]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.02.28-21.13.35:430][278]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.02.28-14.13.35
+[2021.02.28-21.13.35:431][278]LogWorld: Bringing up level for play took: 0.000717
+[2021.02.28-21.13.35:431][278]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.02.28-21.13.35:436][278]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.28-21.13.35:437][278]PIE: Server logged in
+[2021.02.28-21.13.35:438][278]PIE: Play in editor total start time 0.076 seconds.
+[2021.02.28-21.13.41:158][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.13.41:158][949]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.13.41:158][949]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-21.13.41:158][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.13.41:168][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-21.13.41:170][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.13.41:203][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.13.41:203][949]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001730E768C00), frame # 30949
+[2021.02.28-21.13.41:203][949]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001730E7865C0), frame # 30949
+[2021.02.28-21.13.41:204][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.02.28-21.13.41:223][950]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.02.28-21.13.43:495][219]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.02.28-21.13.44:151][289]LogSlate: Took 0.001253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.28-21.13.46:207][524]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.28-21.13.46:232][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.02.28-21.13.46:450][524]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2021.02.28-21.13.47:224][524]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.28-21.13.54:331][134]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2021.02.28-21.13.54:450][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.02.28-21.13.55:954][238]LogSavePackage: Moving '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/2DSideScrollerCharacter79A518C54FC2FC67DC344E8BACE47CB5.tmp' to '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2021.02.28-21.13.55:969][238]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2021.02.28-21.13.55:969][238]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.02.28-21.13.57:090][332]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2021.02.28-21.13.57:095][332]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2021.02.28-21.13.57:098][332]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-21.13.57:098][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.13.58:827][525]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-21.13.58:832][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-21.13.58:832][525]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 28, 2021, 7:13:58 AM)
+[2021.02.28-21.13.58:862][525]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.13.58:865][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002631s)
+[2021.02.28-21.13.58:866][525]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.02.28-21.13.58:866][525]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001731303E000), frame # 32525
+[2021.02.28-21.13.58:866][525]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001730314BB00), frame # 32525
+[2021.02.28-21.13.58:866][525]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2021.02.28-21.13.58:866][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003709s)
+[2021.02.28-21.13.58:884][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.02.28-21.13.58:885][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-21.13.58:885][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-21.13.58:885][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-21.13.58:885][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-21.13.58:885][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-21.13.58:885][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-21.13.58:885][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-21.13.58:885][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-21.13.58:886][525]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-21.13.58:886][525]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-21.13.58:890][525]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-21.13.58:890][525]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-21.13.58:909][525]LogAudioMixer: Display: Using Audio Device Speakers (SADES Knight Pro)
+[2021.02.28-21.13.58:909][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-21.13.58:909][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-21.13.58:909][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-21.13.58:909][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-21.13.58:921][525]LogInit: FAudioDevice initialized.
+[2021.02.28-21.13.58:926][525]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.02.28-21.13.58:928][525]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.02.28-14.13.58
+[2021.02.28-21.13.58:928][525]LogWorld: Bringing up level for play took: 0.000662
+[2021.02.28-21.13.58:928][525]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.02.28-21.13.58:929][525]PIE: Server logged in
+[2021.02.28-21.13.58:930][525]PIE: Play in editor total start time 0.099 seconds.
+[2021.02.28-21.14.02:183][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.14.02:183][910]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.14.02:184][910]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-21.14.02:184][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.14.02:190][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-21.14.02:193][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.14.02:221][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.14.02:221][910]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001730314BB00), frame # 32910
+[2021.02.28-21.14.02:221][910]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001731303E000), frame # 32910
+[2021.02.28-21.14.02:223][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.02.28-21.14.02:261][912]LogPlayLevel: Display: Destroying online subsystem :Context_5
