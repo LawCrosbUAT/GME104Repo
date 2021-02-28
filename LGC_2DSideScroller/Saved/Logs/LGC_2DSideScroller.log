@@ -1052,3 +1052,201 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-21.14.02:221][910]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001731303E000), frame # 32910
 [2021.02.28-21.14.02:223][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2021.02.28-21.14.02:261][912]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.02.28-21.14.23:230][702]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2021.02.28-21.14.27:578][221]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.02.28-21.14.36:396][272]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2021.02.28-21.14.39:345][622]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2021.02.28-21.14.51:909][ 65]Cmd: DELETE
+[2021.02.28-21.14.51:909][ 65]Cmd: ACTOR DELETE
+[2021.02.28-21.14.51:914][ 65]LogEditorActor: Deleted Actor: TextRenderActor
+[2021.02.28-21.14.51:931][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.02.28-21.14.51:936][ 65]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.02.28-21.14.54:128][328]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2021.02.28-21.15.02:338][309]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_31)
+[2021.02.28-21.15.04:899][613]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2021.02.28-21.15.10:780][310]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_34)
+[2021.02.28-21.15.26:166][149]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_29)
+[2021.02.28-21.15.27:484][304]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_34)
+[2021.02.28-21.15.32:444][885]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_25)
+[2021.02.28-21.15.33:431][  0]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2021.02.28-21.15.34:329][104]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_26)
+[2021.02.28-21.15.35:587][252]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2021.02.28-21.15.36:996][418]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_25)
+[2021.02.28-21.15.40:247][803]Cmd: DELETE
+[2021.02.28-21.15.40:247][803]Cmd: ACTOR DELETE
+[2021.02.28-21.15.40:248][803]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.02.28-21.15.40:264][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.02.28-21.15.40:270][803]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.02.28-21.15.41:014][892]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2021.02.28-21.15.41:372][932]Cmd: DELETE
+[2021.02.28-21.15.41:372][932]Cmd: ACTOR DELETE
+[2021.02.28-21.15.41:373][932]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.02.28-21.15.41:388][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.02.28-21.15.41:389][932]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.02.28-21.15.42:424][ 56]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_28)
+[2021.02.28-21.15.43:287][156]Cmd: EDIT COPY
+[2021.02.28-21.15.44:291][276]Cmd: EDIT PASTE
+[2021.02.28-21.15.55:447][611]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2021.02.28-21.15.56:456][729]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_33)
+[2021.02.28-21.16.01:392][309]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-21.16.01:396][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-21.16.01:396][309]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 28, 2021, 7:16:01 AM)
+[2021.02.28-21.16.01:422][309]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.16.01:424][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002134s)
+[2021.02.28-21.16.01:425][309]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.02.28-21.16.01:425][309]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000173113A2C00), frame # 45309
+[2021.02.28-21.16.01:425][309]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001737202CE00), frame # 45309
+[2021.02.28-21.16.01:425][309]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2021.02.28-21.16.01:425][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003177s)
+[2021.02.28-21.16.01:440][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.02.28-21.16.01:444][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-21.16.01:444][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-21.16.01:444][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-21.16.01:444][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-21.16.01:444][309]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-21.16.01:444][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-21.16.01:444][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-21.16.01:444][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-21.16.01:444][309]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-21.16.01:444][309]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-21.16.01:449][309]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-21.16.01:449][309]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-21.16.01:467][309]LogAudioMixer: Display: Using Audio Device Speakers (SADES Knight Pro)
+[2021.02.28-21.16.01:467][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-21.16.01:467][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-21.16.01:467][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-21.16.01:468][309]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-21.16.01:479][309]LogInit: FAudioDevice initialized.
+[2021.02.28-21.16.01:486][309]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.02.28-21.16.01:487][309]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.02.28-14.16.01
+[2021.02.28-21.16.01:487][309]LogWorld: Bringing up level for play took: 0.000644
+[2021.02.28-21.16.01:488][309]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.02.28-21.16.01:489][309]PIE: Server logged in
+[2021.02.28-21.16.01:490][309]PIE: Play in editor total start time 0.095 seconds.
+[2021.02.28-21.16.19:523][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.16.19:524][467]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.16.19:524][467]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-21.16.19:524][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.16.19:530][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-21.16.19:533][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.16.19:561][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.16.19:561][467]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001737202CE00), frame # 47467
+[2021.02.28-21.16.19:561][467]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000173113A2C00), frame # 47467
+[2021.02.28-21.16.19:563][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.02.28-21.16.19:595][469]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.02.28-21.16.28:022][480]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_27)
+[2021.02.28-21.16.29:736][682]Cmd: EDIT COPY
+[2021.02.28-21.16.30:171][734]Cmd: EDIT PASTE
+[2021.02.28-21.16.38:181][688]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-21.16.38:185][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-21.16.38:185][688]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 28, 2021, 7:16:38 AM)
+[2021.02.28-21.16.38:222][688]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.16.38:225][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002183s)
+[2021.02.28-21.16.38:225][688]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.02.28-21.16.38:225][688]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001730E768800), frame # 49688
+[2021.02.28-21.16.38:225][688]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001737202C180), frame # 49688
+[2021.02.28-21.16.38:226][688]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2021.02.28-21.16.38:226][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003196s)
+[2021.02.28-21.16.38:241][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.02.28-21.16.38:244][688]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-21.16.38:245][688]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-21.16.38:245][688]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-21.16.38:245][688]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-21.16.38:245][688]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-21.16.38:245][688]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-21.16.38:245][688]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-21.16.38:245][688]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-21.16.38:245][688]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-21.16.38:245][688]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-21.16.38:250][688]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-21.16.38:250][688]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-21.16.38:267][688]LogAudioMixer: Display: Using Audio Device Speakers (SADES Knight Pro)
+[2021.02.28-21.16.38:267][688]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-21.16.38:267][688]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-21.16.38:267][688]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-21.16.38:267][688]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-21.16.38:278][688]LogInit: FAudioDevice initialized.
+[2021.02.28-21.16.38:285][688]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.02.28-21.16.38:286][688]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.02.28-14.16.38
+[2021.02.28-21.16.38:286][688]LogWorld: Bringing up level for play took: 0.000639
+[2021.02.28-21.16.38:287][688]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.02.28-21.16.38:288][688]PIE: Server logged in
+[2021.02.28-21.16.38:289][688]PIE: Play in editor total start time 0.105 seconds.
+[2021.02.28-21.16.46:813][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.16.46:813][705]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.16.46:814][705]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-21.16.46:814][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.16.46:818][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-21.16.46:821][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.16.46:849][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.16.46:849][705]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001737202C180), frame # 50705
+[2021.02.28-21.16.46:849][705]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001730E768800), frame # 50705
+[2021.02.28-21.16.46:851][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.02.28-21.16.46:882][707]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.02.28-21.17.16:776][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.02.28-21.17.16:791][239]LogSavePackage: Moving '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/2DSideScrollerExampleMap_Auto1BDA04A3740A2EE46E3BD63AEDCA34B73.tmp' to '../../../../../../Users/Lgray/Documents/GitHub/GME104Repo/LGC_2DSideScroller/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2021.02.28-21.17.16:793][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.032
+[2021.02.28-21.17.16:793][239]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.032
+[2021.02.28-21.21.26:806][199]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_26)
+[2021.02.28-21.21.28:362][382]Cmd: EDIT COPY
+[2021.02.28-21.21.28:672][419]Cmd: EDIT PASTE
+[2021.02.28-21.21.34:129][ 69]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_27)
+[2021.02.28-21.21.35:798][266]Cmd: EDIT COPY
+[2021.02.28-21.21.36:117][304]Cmd: EDIT PASTE
+[2021.02.28-21.21.40:737][855]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_29)
+[2021.02.28-21.21.41:363][927]Cmd: EDIT COPY
+[2021.02.28-21.21.41:597][955]Cmd: EDIT PASTE
+[2021.02.28-21.21.47:232][627]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_30)
+[2021.02.28-21.21.48:583][786]Cmd: EDIT COPY
+[2021.02.28-21.21.48:828][815]Cmd: EDIT PASTE
+[2021.02.28-21.21.53:073][320]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (GlobalPostProcessSettings)
+[2021.02.28-21.21.53:814][402]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_31)
+[2021.02.28-21.21.54:540][485]Cmd: EDIT COPY
+[2021.02.28-21.21.54:858][523]Cmd: EDIT PASTE
+[2021.02.28-21.22.07:162][992]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-21.22.07:167][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-21.22.07:167][992]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 28, 2021, 7:22:07 AM)
+[2021.02.28-21.22.07:212][992]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.22.07:215][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002677s)
+[2021.02.28-21.22.07:215][992]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.02.28-21.22.07:215][992]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017312452200), frame # 88992
+[2021.02.28-21.22.07:216][992]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001737202F100), frame # 88992
+[2021.02.28-21.22.07:216][992]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2021.02.28-21.22.07:216][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003870s)
+[2021.02.28-21.22.07:233][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.02.28-21.22.07:242][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-21.22.07:242][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-21.22.07:242][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-21.22.07:242][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-21.22.07:242][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-21.22.07:242][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-21.22.07:242][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-21.22.07:242][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-21.22.07:242][992]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-21.22.07:242][992]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-21.22.07:249][992]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-21.22.07:249][992]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-21.22.07:269][992]LogAudioMixer: Display: Using Audio Device Speakers (SADES Knight Pro)
+[2021.02.28-21.22.07:269][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-21.22.07:269][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-21.22.07:269][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-21.22.07:270][992]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-21.22.07:281][992]LogInit: FAudioDevice initialized.
+[2021.02.28-21.22.07:292][992]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.02.28-21.22.07:294][992]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.02.28-14.22.07
+[2021.02.28-21.22.07:294][992]LogWorld: Bringing up level for play took: 0.001208
+[2021.02.28-21.22.07:294][992]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.02.28-21.22.07:297][992]PIE: Server logged in
+[2021.02.28-21.22.07:297][992]PIE: Play in editor total start time 0.132 seconds.
+[2021.02.28-21.22.35:353][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.22.35:353][352]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.28-21.22.35:354][352]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-21.22.35:354][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.22.35:362][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-21.22.35:364][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-21.22.35:392][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-21.22.35:393][352]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001737202F100), frame # 92352
+[2021.02.28-21.22.35:393][352]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017312452200), frame # 92352
+[2021.02.28-21.22.35:394][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.02.28-21.22.35:434][354]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.02.28-21.22.40:818][  0]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_36)
